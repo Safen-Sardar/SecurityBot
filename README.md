@@ -1,4 +1,4 @@
 
-# By Sakran
+# By Gitar
 
-# SafetyBot Security
+# Anti Vandalism App Security
